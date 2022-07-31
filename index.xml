@@ -6,7 +6,7 @@
     <description>Recent content on XieShuai&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 31 Jul 2022 11:52:03 +0800</lastBuildDate><atom:link href="https://xieshuai14.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Jul 2022 21:52:03 +0800</lastBuildDate><atom:link href="https://xieshuai14.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>重启，博客！</title>
       <link>https://xieshuai14.github.io/post/hello-world.html</link>
@@ -21,6 +21,15 @@
     Hugo
     &lt;i class=&#34;fa fa-external-link-alt&#34;&gt;&lt;/i&gt;
 &lt;/a&gt; 是现今世界上最快的网站建设框架，也是最流行的开源静态站点生成器之一。 凭借其惊人的速度和灵活性，Hugo 让建设网站再次变得有趣起来。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>关于站长</title>
+      <link>https://xieshuai14.github.io/post/about.html</link>
+      <pubDate>Sun, 31 Jul 2022 21:52:03 +0800</pubDate>
+      
+      <guid>https://xieshuai14.github.io/post/about.html</guid>
+      <description>自我介绍 拖延症患者 社恐男孩 混吃混喝工作者 音乐发烧友 即将进军网安界的脚本小子 自我介绍 邮箱：Aa498331632@163.com</description>
     </item>
     
   </channel>
